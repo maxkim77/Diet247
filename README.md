@@ -81,6 +81,8 @@ Nutrition Info
 
 
 **2.1 개발 환경**
+
+
 Frontend: HTML, CSS
 Backend: JavaScript
 API: ChatGPT API
