@@ -93,13 +93,29 @@ API: ChatGPT API
 
 
 **3.1 프로젝트 구조**
+
+
 HTML
+
+
 CSS
+
+
 JS
+
+
 └─ src
+
+
     │  index.js
+
+    
     │  App.js
+
+    
 ├─ api
+
+
 │  │  chatAPI.js
 
 
