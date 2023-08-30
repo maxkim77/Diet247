@@ -163,8 +163,14 @@ JS
 
 
 **6. 데이터베이스 모델링(ERD)**
+
+
 User Table: id, username, weight, target_weight, allergies
+
+
 Diet Table: id, user_id, date, meals
+
+
 Chat Table: id, user_id, timestamp, message
 
 
