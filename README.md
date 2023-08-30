@@ -169,6 +169,8 @@ Chat Table: id, user_id, timestamp, message
 
 
 **7. 메인 기능**
+
+
 사용자 프로필 생성 및 수정
 
 
@@ -179,6 +181,8 @@ Chat Table: id, user_id, timestamp, message
 
 
 **8. 추가 기능**
+
+
 커뮤니티 게시판
 
 
