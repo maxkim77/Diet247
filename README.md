@@ -79,7 +79,6 @@ API: ChatGPT API
 
 
 **2.2 배포 URL**
-https://www.studyin.co.kr/
 
 
 **3. 프로젝트 구조와 개발 일정**
