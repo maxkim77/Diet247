@@ -91,6 +91,8 @@ API: ChatGPT API
 **2.2 배포 URL**
 
 
+https://maxkim77.github.io/Diet247/
+
 **3. 프로젝트 구조와 개발 일정**
 
 
