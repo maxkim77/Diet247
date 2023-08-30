@@ -1,0 +1,102 @@
+@font-face {
+    font-family: 'Pretendard-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: bold;
+  }
+/* layout */
+.layout-header{
+ height: 80px;
+ padding:0 20px;
+ border-bottom: 1px solid #ccc;
+ display: flex;
+ justify-content: space-between;
+ align-items:center;
+}
+.layout-header >h1{
+    color: #2E6FF2;
+    font-size: 32px;
+    font-family:'Pretendard-Bold';
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+/* body */
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    gap:60px;
+  }
+ .container {
+    display: flex;
+    flex-direction: row;
+ }
+
+ .image-container{
+    flex: 1;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; 
+ }
+ .text-container{
+    flex: 2;
+    padding-left: 20px;
+ }
+
+
+  main{
+    flex-grow: 1;
+  }
+
+
+/* footer */
+.layout-footer{
+    text-align: center;
+    background-color: #eee;
+    padding: 30px 0;
+}
+
+.Frame
+{  width: 100%; 
+        height: 100%; 
+        border-radius: 10px;
+         overflow: hidden; 
+         border: 1px #D9DBE0 solid; 
+         flex-direction: column; 
+         justify-content: center; align-items: flex-start; display: inline-flex }
+
+.day1
+{
+  text-align: center; color: #121314; font-size: 20px; font-family: Abhaya Libre SemiBold; font-weight: 600; word-wrap: break-word;
+}
+/* 추가코드 */
+.frame-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.frame {
+  flex-basis: calc(33.333% - 20px);
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.frame h3 {
+  margin-top: 0;
+  font-size: 1.2em;
+}
+
+.frame p {
+  margin-bottom: 0;
+}
+.field ul {
+  display: inline-block;
+  margin-right: 20px;
+}

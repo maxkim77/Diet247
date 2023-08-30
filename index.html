@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="common.css">
+    <title>Diet 24/7</title>
+</head>
+<body>
+    <header class="layout-header">
+        <h1>Diet 24/7</h1>
+        <h4>㈜Secret Corp.</h4>
+    </header>
+    <div class="container">
+        <div class="image-container"><img src="index.PNG" alt="Diet Image"></div>
+        <div class="text-container">
+            <h2>다이어트 식단</h2>
+            <form id="diet-form">
+                <div>무슨운동하시나요?</div>
+                <input name="type" id="type" type="text" minlength="2" maxlength="30" placeholder="수영, 헬스, 축구, 야구 등" required>
+                <div>며칠 동안 식단관리를 할 건가요?</div>
+                <input name="days" id="days" type="text" minlength="2" maxlength="30" placeholder="3일" required>
+                <div>못먹는 음식이 있나요?</div>
+                <input name="extrafood" id="extrafood" type="text" minlength="2" maxlength="30" placeholder="피클, 땅콩 등" required>
+                <div>다이어트 목적은 있나요?</div>
+                <div class="field" >
+                    <ul>
+                        <input id="work1" value="work1" type="checkbox">
+                        <label for="work1">체중증가</label>
+                    </ul>
+                    <ul>
+                        <input id="work2" value="work2" type="checkbox">
+                        <label for="work2">체중감량</label>
+                    </ul>
+                    <ul>
+                        <input id="work3" value="work3" type="checkbox">
+                        <label for="work3">체중유지</label>
+                    </ul>
+                    <ul>
+                        <input id="work4" value="work4" type="checkbox">
+                        <label for="work4">근육증가</label>
+                    </ul>
+                </div>
+                <button type="submit">질문하기!</button>
+            </form>
+        </div>
+    </div>
+    <main>
+        <h2>식단일정</h2>
+        <div class="frame-container">
+            <!-- 여기에 JavaScript로 식단 칸이 추가됩니다 -->
+        </div>
+    </main>
+    <footer class="layout-footer">
+        Copyright 2023. CHILLI All rights reserved.
+    </footer>
+
+    <script>
+        const url = `https://estsoft-openai-api.jejucodingcamp.workers.dev/`;
+        const $form = document.getElementById('diet-form');
+        const $frameContainer = document.querySelector('.frame-container');
+
+        $form.addEventListener('submit', async e => {
+            e.preventDefault();
+
+            const type = document.getElementById('type').value;
+            const days = document.getElementById('days').value;
+            const extrafood = document.getElementById('extrafood').value;
+            const work1 = document.getElementById('work1').checked;
+            const work2 = document.getElementById('work2').checked;
+            const work3 = document.getElementById('work3').checked;
+            const work4 = document.getElementById('work4').checked;
+
+            let purpose = '';
+            if (work1) purpose += '체중증가 ';
+            if (work2) purpose += '체중감량 ';
+            if (work3) purpose += '체중유지 ';
+            if (work4) purpose += '근육증가 ';
+
+            const data = {
+                "role": "system",
+                "content": `운동 종류: ${type}, 식단 기간: ${days}, 못 먹는 음식: ${extrafood}, 목적: ${purpose} 등을 활용해서 운동식단을 짜드리겠습니다.`
+            };
+
+            const response = await fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify([data]),
+                redirect: 'follow'
+            });
+
+            const result = await response.json();
+            const numDays = parseInt(days, 10) || 1;
+
+            $frameContainer.innerHTML = ''; // 기존 내용 삭제
+
+            for (let i = 1; i <= numDays; i++) {
+                const frame = document.createElement('div');
+                frame.className = 'frame';
+                frame.innerHTML = `
+                    <h3>Day ${i}</h3>
+                    <p>${result.choices[0].message.content}</p>
+                `;
+                $frameContainer.appendChild(frame);
+            }
+        });
+    </script>
+</body>
+</html>
