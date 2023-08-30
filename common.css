@@ -25,6 +25,20 @@
     justify-content: center;
 }
 /* body */
+
+/* 텍스트 박스 크기 조절 */
+input[type="text"] {
+  width: 650px; /* 너비를 부모 요소의 100%로 설정 */
+  padding: 12px; /* 패딩을 통해 높이 조절 */
+  margin-bottom: 20px; /* 텍스트 박스 아래에 마진 추가 */
+  box-sizing: border-box; /* 패딩과 테두리가 너비와 높이에 포함되도록 설정 */
+}
+
+/* 각 div에 마진 추가 */
+form div {
+  margin-bottom: 10px; /* 각 div 아래에 10px 마진 추가 */
+}
+
 body{
     display: flex;
     flex-direction: column;
@@ -46,12 +60,32 @@ body{
     flex: 2;
     padding-left: 20px;
  }
-
-
   main{
     flex-grow: 1;
   }
 
+/* 버튼 스타일 변경 */
+button {
+  background-color: #2E6FF2; /* 배경색을 파란색으로 */
+  color: white; /* 글씨색을 흰색으로 */
+  padding: 15px 30px; /* 패딩을 통해 버튼 크기 조절 */
+  font-size: 16px; /* 글씨 크기 */
+  border: none; /* 테두리 제거 */
+  cursor: pointer; /* 마우스 커서를 손가락 모양으로 */
+  width: auto; /* 버튼의 너비를 내용에 맞게 자동으로 설정 */
+}
+
+/* 체크박스와 라벨을 담고 있는 ul의 크기를 조절 */
+.field ul {
+  width: auto; /* 부모 요소의 전체 너비로 설정 */
+  display: block; /* 세로로 정렬 */
+}
+
+/* 체크박스와 라벨의 크기를 조절 */
+.field input[type="checkbox"],
+.field label {
+  font-size: larger; /* 글씨 크기를 크게 */
+}
 
 /* footer */
 .layout-footer{
@@ -99,4 +133,46 @@ body{
 .field ul {
   display: inline-block;
   margin-right: 20px;
+}
+
+/* 왼쪽 메뉴 스타일 */
+.left-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 100%;
+  background-color: #333;
+  overflow-y: auto;
+}
+
+.left-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.left-menu ul li {
+  text-align: center;
+  padding: 16px;
+}
+
+.left-menu ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* 기존 컨텐츠의 위치 조정 */
+.container, .frame-container, .layout-header, .layout-footer, main {
+  margin-left: 210px;
+}
+
+.main {
+  width: 100%; /* 혹은 다른 적절한 가로 길이 */
+}
+
+.main > h2 {
+  text-align: center; /* 텍스트를 중앙으로 정렬 */
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
