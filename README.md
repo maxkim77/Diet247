@@ -158,7 +158,7 @@ JS
 
 **5. UI / BM**
 
-![Uploading image.png…]()
+![캡처](https://github.com/maxkim77/Diet247/assets/141907655/532ff12c-0ae5-48dc-bb46-d14ff6683013)
 
 아래 페이지별 상세 설명, Gif 등 첨부 예정.
 
