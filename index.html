@@ -3,17 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="common.css">
+    <link rel="stylesheet" href="/Diet 24.7/CSS/common.css">
     <title>Diet 24/7</title>
 </head>
 <body>
-    <!-- Header  -->
+<!-- Header  -->
     <header class="layout-header">
-        <h1>Diet 24/7</h1>
-        <h4>㈜Secret Corp.</h4>
+        <img src="/Diet 24.7/IMG/img2.png" width="150px" height="150px">
+        <img src="/Diet 24.7/IMG/img3.png" width="80px" height="50px">
     </header>
+<!-- 사이드메뉴 -->
+<div class="left-menu">
+    <img src="/Diet 24.7/IMG/img1.png" width="200" height="200">
+    <ul>
+        <li><a href="/Diet 24.7/Home.html">Home</a></li>
+        <li><a href="/Diet 24.7/index.html">Diet Plan</a></li>
+        <li><a href="/Diet 24.7/section1.html">Food Info</a></li>
+        <li><a href="/Diet 24.7/section2.html">Communication</a></li>
+        <li><a href="/Diet 24.7/section3.html">Contact Point</a></li>
+    </ul>
+</div>
+<!-- 사이드메뉴 -->
+
     <div class="container">
-        <div class="image-container"><img src="index.PNG" alt="Diet Image"></div>
+        <div class="image-container"><img src="/Diet 24.7/IMG/index.PNG" alt="Diet Image"></div>
         <div class="text-container">
             <h2>다이어트 식단</h2>
             <form id="diet-form">
@@ -52,10 +65,7 @@
             <!-- 여기에 JavaScript로 식단 칸이 추가됩니다 -->
         </div>
     </main>
-    <footer class="layout-footer">
-        Copyright 2023. CHILLI All rights reserved.
-    </footer>
-
+ 
     <script>
         const url = `https://estsoft-openai-api.jejucodingcamp.workers.dev/`;
         const $form = document.getElementById('diet-form');
@@ -108,5 +118,12 @@
             }
         });
     </script>
+
+<!-- 하단부분 -->
+       <footer class="layout-footer">
+        Copyright 2023. CHILLI All rights reserved.
+    </footer>
+<!-- 하단부분 -->
+
 </body>
 </html>
