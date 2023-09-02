@@ -4,6 +4,35 @@
     font-weight: 700;
     font-style: bold;
   }
+
+  /* Home CSS */
+  body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  #video-container {
+    position: fixed; /* Fixed position */
+    top: 0;
+    left: 200px;
+    height: 100%;
+    width: calc(100% - 200px);
+    z-index: -1; /* Behind the content */
+  }
+  
+  #bg-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Cover the entire screen */
+  }
+  
+  /* 다른 요소들이 비디오 위에 올라오도록 설정 */
+.left-menu{
+    position: relative;
+    z-index: 1;
+  }
+  
 /* layout */
 .layout-header{
  height: 80px;
@@ -24,7 +53,7 @@
     flex-direction: row;
     justify-content: center;
 }
-/* body */
+/* Index body */
 
 /* 텍스트 박스 크기 조절 */
 input[type="text"] {
@@ -107,7 +136,7 @@ button {
 {
   text-align: center; color: #121314; font-size: 20px; font-family: Abhaya Libre SemiBold; font-weight: 600; word-wrap: break-word;
 }
-/* 추가코드 */
+/* Index페이지 하단 출력 칸 구분  */
 .frame-container {
   display: flex;
   flex-wrap: wrap;
@@ -178,4 +207,94 @@ button {
   text-align: center; /* 텍스트를 중앙으로 정렬 */
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+/* section 1 */
+.article-content {
+  flex: 2;
+  margin-left: 280px;  /* 기존 값 210px에서 20px 더 늘림 */
+}
+
+/* section3 */
+.article-content {
+  flex: 2;
+  margin-left: 250px;  /* 기존 값 210px에서 20px 더 늘림 */
+}
+
+
+/* Main Content Style */
+.main-content {
+  margin-left: 220px; /* Left menu width + margin */
+  padding: 20px;
+}
+
+/* Main Container Style */
+.main-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Left Container Style */
+.left-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Right Container Style */
+.right-container {
+  margin-left: auto;
+}
+
+/* About Us Section Style */
+#about-us {
+  margin-bottom: 50px;
+}
+
+/* Contact Point Section Style */
+#contact-point {
+  margin-bottom: 50px;
+}
+
+/* Contact Info Style */
+address {
+  font-style: normal;
+}
+/* Main Content Style */
+.main-content {
+  margin-left: 220px; /* Left menu width + margin */
+  padding: 20px;
+}
+
+/* Main Container Style */
+.main-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+/* Left Container Style */
+.left-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Right Container Style */
+.right-container {
+  margin-left: auto;
+}
+
+/* About Us Section Style */
+#about-us {
+  margin-bottom: 50px;
+}
+
+/* Contact Point Section Style */
+#contact-point {
+  margin-bottom: 50px;
+}
+
+/* Contact Info Style */
+address {
+  font-style: normal;
 }
