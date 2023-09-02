@@ -129,6 +129,7 @@ button {
 
 .frame p {
   margin-bottom: 0;
+  white-space: pre-line;
 }
 .field ul {
   display: inline-block;
