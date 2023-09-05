@@ -139,24 +139,25 @@ https://maxkim77.github.io/Diet247/
 
 Main Components
 
-![CPT2309060814-1912x955](https://github.com/maxkim77/Diet247/assets/141907655/296c9d1f-50ec-4f57-a3a2-3fa9865dec53)
+
+![gif](https://github.com/maxkim77/Diet247/assets/141907655/b2b221b4-0a6b-4af4-a770-4b3f2caab6df)
 
 Home Page: 홍보동영상 첨부
 
-![CPT2309060803-1904x947](https://github.com/maxkim77/Diet247/assets/141907655/9d95cb83-59ba-4bd8-b58a-5f2ee19d68ff)
+![gif](https://github.com/maxkim77/Diet247/assets/141907655/9d95cb83-59ba-4bd8-b58a-5f2ee19d68ff)
 
 Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능
 
-![CPT2309060812-1912x950](https://github.com/maxkim77/Diet247/assets/141907655/f80583e2-9d44-4860-b318-1f8762ad5d41)
+![gif](https://github.com/maxkim77/Diet247/assets/141907655/f80583e2-9d44-4860-b318-1f8762ad5d41)
 
 Food Info : 건강식단 식품 정보 제공(쿠팡링크)
 
-![CPT2309060814-1912x955 (1)](https://github.com/maxkim77/Diet247/assets/141907655/282dac31-65ec-4da3-b28e-2e6fca89ebdd)
+![gif](https://github.com/maxkim77/Diet247/assets/141907655/282dac31-65ec-4da3-b28e-2e6fca89ebdd)
 
 Communication:
 실시간 댓글 기능추가(Disqus)
 
-![CPT2309060816-1912x954](https://github.com/maxkim77/Diet247/assets/141907655/0b103bea-e899-463e-a4b5-1fe2929d2035)
+![gif](https://github.com/maxkim77/Diet247/assets/141907655/0b103bea-e899-463e-a4b5-1fe2929d2035)
 
 Contact point:
 실시간 챗봇 상담(Tawk)
