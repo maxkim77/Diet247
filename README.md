@@ -5,7 +5,6 @@
 
 
 **1.1 목표**
-    <source src="https://maxkim77.github.io/Diet247-1/IMG/Untitled video - Made with Clipchamp (3).mp4" type="video/mp4" width="100%" height="100%">
 
 Diet 24/7은 사용자의 식단 선호, 영양 필요성, 목표 체중 등을 고려하여 맞춤형 식단을 자동으로 생성하는 웹 플랫폼입니다. 
 
@@ -123,30 +122,27 @@ https://maxkim77.github.io/Diet247/
 
 **3.1 프로젝트 구조**
 
-
-HTML
-
-
-CSS
-
-
-JS
-
-
-└─ src
-
-
-    │  index.js
-
-    
-    │  App.js
-
-    
-├─ api
-
-
-│  │  chatAPI.js
-
+📦Diet 24.7
+ ┣ 📂IMG
+ ┃ ┣ 📜Dubbing version.mp4
+ ┃ ┣ 📜img1.png
+ ┃ ┣ 📜img2.png
+ ┃ ┣ 📜img3.png
+ ┃ ┣ 📜img4.jpg
+ ┃ ┣ 📜img5.jpg
+ ┃ ┣ 📜img5.png
+ ┃ ┣ 📜img6.png
+ ┃ ┣ 📜index.PNG
+ ┃ ┣ 📜KakaoTalk_20230831_155104676.mp4
+ ┃ ┣ 📜load-32_256.gif
+ ┃ ┗ 📜Untitled video - Made with Clipchamp (3).mp4
+ ┣ 📜common.css
+ ┣ 📜Home.html
+ ┣ 📜index.html
+ ┣ 📜index.js
+ ┣ 📜section1.html
+ ┣ 📜section2.html
+ ┗ 📜section3.html
 
 **3.2 개발 일정(WBS)**
 
