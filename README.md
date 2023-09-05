@@ -156,13 +156,11 @@ Contact point:
  ┗ 📜section3.html
 
 
-![슬라이드7](https://github.com/maxkim77/Diet247/assets/141907655/8f581dcf-f602-4ad9-a637-1f184fb6453c)
-
-
-
 **3.3 UI / BM**
 
-![캡처](https://github.com/maxkim77/Diet247/assets/141907655/532ff12c-0ae5-48dc-bb46-d14ff6683013)
+
+![슬라이드7](https://github.com/maxkim77/Diet247/assets/141907655/8f581dcf-f602-4ad9-a637-1f184fb6453c)
+
 
 ![슬라이드8](https://github.com/maxkim77/Diet247/assets/141907655/35305071-f6c4-4e9e-acc7-a20e3ee79ead)
 
