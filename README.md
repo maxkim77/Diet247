@@ -99,7 +99,8 @@ https://maxkim77.github.io/Diet247/
 ## 3. 프로젝트 설계 및 세부사항
 
 
-![슬라이드6](https://github.com/maxkim77/Diet247/assets/141907655/e15bc6b5-16b0-4fad-9db9-bf1d737d587d)
+![슬라이드6](https://github.com/maxkim77/Diet247/assets/141907655/1deca16a-2e0a-4cf4-a349-2845f82676eb)
+
 
 **3.1 프로젝트 구조**
 
@@ -168,7 +169,7 @@ Contact point:
 ## 4. 기능
 
 
-![슬라이드9](https://github.com/maxkim77/Diet247/assets/141907655/587a9287-e39a-4d58-9f3e-0f4def047e9a)
+![슬라이드9](https://github.com/maxkim77/Diet247/assets/141907655/2804c661-715e-4993-be70-4b421b9d02b4)
 
 
 **4.1 메인 기능**
@@ -203,7 +204,7 @@ Contact point:
 ## 5. 느낀점 및 개선점
 
 
-![슬라이드10](https://github.com/maxkim77/Diet247/assets/141907655/0da257eb-4f12-43e3-9b21-13ac229ce5cd)
+![슬라이드10](https://github.com/maxkim77/Diet247/assets/141907655/12ba92f8-1255-435d-8849-f0b388f4ceeb)
 
 
 
@@ -226,5 +227,7 @@ Contact point:
 - 챗GPT 의존도 높음, 코드 필사 및 공부를 할 예정입니다.
 - 추후 자바스크립트로 여러 HTML 페이지 구조에서 단일 HTML 페이지로 변환할 예정입니다.
 
-![슬라이드11](https://github.com/maxkim77/Diet247/assets/141907655/a36819bb-18db-4630-8771-077af0066b9a)
+
+![Diet 24 7-41](https://github.com/maxkim77/Diet247/assets/141907655/40c6dca9-8d2f-4b7e-8ca5-b5811b1a30a2)
+
 
