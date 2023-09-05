@@ -101,7 +101,7 @@ Nutrition Info
 
 
 
-**2. 개발 환경 및 배포 URL**
+**2. 개발 환경 및 배포**
 
 
 **2.1 개발 환경**
@@ -117,7 +117,7 @@ API: ChatGPT API
 
 https://maxkim77.github.io/Diet247/
 
-**3. 프로젝트 구조와 개발 일정**
+**3. 프로젝트 구조와 개발 일정 및 R&R**
 
 
 **3.1 프로젝트 구조**
@@ -128,44 +128,11 @@ https://maxkim77.github.io/Diet247/
  ┣ 📂IMG
 
  
- ┃ ┣ 📜Dubbing version.mp4
- 
- 
- ┃ ┣ 📜img1.png
- 
- 
- ┃ ┣ 📜img2.png
- 
- 
- ┃ ┣ 📜img3.png
- 
- 
- ┃ ┣ 📜img4.jpg
- 
- 
- ┃ ┣ 📜img5.jpg
- 
- 
- ┃ ┣ 📜img5.png
- 
- 
- ┃ ┣ 📜img6.png
- 
- 
- ┃ ┣ 📜index.PNG
- 
- 
- ┃ ┣ 📜KakaoTalk_20230831_155104676.mp4
- 
- 
- ┃ ┣ 📜load-32_256.gif
- 
- 
- ┃ ┗ 📜Untitled video - Made with Clipchamp (3).mp4
- 
- 
  ┣ 📜common.css
+
  
+ ┣ 📂HTML
+
  
  ┣ 📜Home.html
  
@@ -189,41 +156,26 @@ https://maxkim77.github.io/Diet247/
 개발일정 : https://cloud-kale-960.notion.site/24a89e9a89284a12a6756c756be0d5cd?v=be385651648e4a4f92478eb4ee96b23e&pvs=4
 
 
-**4. 개인 프로젝트: 총괄 김정원**
+**3.3 개인 프로젝트: 총괄 김정원**
 
 
-**5. UI / BM**
+**4. UI / BM**
 
 ![캡처](https://github.com/maxkim77/Diet247/assets/141907655/532ff12c-0ae5-48dc-bb46-d14ff6683013)
 
 아래 페이지별 상세 설명, Gif 등 첨부 예정.
 
 
-**6. 데이터베이스 모델링(ERD)**
+**5.1 메인 기능**
 
 
-User Table: id, username, weight, target_weight, allergies
+사용자 정보 입력
 
 
-Diet Table: id, user_id, date, meals
+식단 자동 생성 및 저장기능
 
 
-Chat Table: id, user_id, timestamp, message
-
-
-**7. 메인 기능**
-
-
-사용자 프로필 생성 및 수정
-
-
-식단 자동 생성 및 수정
-
-
-실시간 챗봇 상담
-
-
-**8. 추가 기능**
+**5.2 추가 기능**
 
 
 커뮤니티 게시판
@@ -231,10 +183,17 @@ Chat Table: id, user_id, timestamp, message
 
 건강식품 정보 제공
 
-**9. 수익화 기능 – 쿠팡파트너스 연동**
+**6. 수익화 기능 – 쿠팡파트너스 연동**
 
 
-**10. 개발하며 느낀점**
-ChatGPT API의 활용성이 높아 개발 시간을 단축할 수 있었습니다.
-사용자의 다양한 요구사항을 충족시키기 위해 계속 업데이트가 필요함을 느꼈습니다.
-기획을 꼼꼼히 하는 것이 중요하다는 것을 느꼈습니다.
+**7. 느낀점 및 개선점**
+**느낀점**
+- ChatGPT API의 활용성이 높아 개발 시간을 단축할 수 있었습니다.
+- 사용자의 다양한 요구사항을 충족시키기 위해 계속 업데이트가 필요함을 느꼈습니다.
+- 기획을 꼼꼼히 하는 것이 중요하다는 것을 느꼈습니다.
+
+
+**개선점**
+- 자바스크립트 및 CSS 공부 필요
+- 챗GPT 의존
+- 추후 자바스크립트로 여러 HTML 페이지 구조에서 단일 HTML 페이지로 변환예정
