@@ -102,7 +102,7 @@ https://maxkim77.github.io/Diet247/
 
 
 
-**3.1 정보 구조 설계**
+**3.1 구조 설계**
 
 
 
@@ -119,11 +119,11 @@ Food Info : 건강식단 식품 정보 제공(쿠팡링크)
 
 
 Communication:
-실시간 댓글 기능추가
+실시간 댓글 기능추가(Disqus)
 
 
 Contact point:
-실시간 챗봇 상담
+실시간 챗봇 상담(Tawk)
 
 
 **3.2 프로젝트 구조**
