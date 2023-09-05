@@ -101,32 +101,7 @@ https://maxkim77.github.io/Diet247/
 
 ![슬라이드6](https://github.com/maxkim77/Diet247/assets/141907655/e15bc6b5-16b0-4fad-9db9-bf1d737d587d)
 
-
-**3.1 구조 설계**
-
-
-
-Main Components
-
-
-Home Page: 홍보동영상 첨부
-
-
-Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능
-
-
-Food Info : 건강식단 식품 정보 제공(쿠팡링크)
-
-
-Communication:
-실시간 댓글 기능추가(Disqus)
-
-
-Contact point:
-실시간 챗봇 상담(Tawk)
-
-
-**3.2 프로젝트 구조**
+**3.1 프로젝트 구조**
 
 📦Diet 24.7
 
@@ -154,6 +129,31 @@ Contact point:
  
  
  ┗ 📜section3.html
+
+
+**3.2 기능 구조**
+
+
+
+Main Components
+
+
+Home Page: 홍보동영상 첨부
+
+
+Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능
+
+
+Food Info : 건강식단 식품 정보 제공(쿠팡링크)
+
+
+Communication:
+실시간 댓글 기능추가(Disqus)
+
+
+Contact point:
+실시간 챗봇 상담(Tawk)
+
 
 
 **3.3 UI / BM**
