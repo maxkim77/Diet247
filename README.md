@@ -91,25 +91,26 @@ https://maxkim77.github.io/Diet247/
 **3.1 정보 구조 설계**
 
 
+
 Main Components
 
 
-Home Page: 서비스 소개 및 사용자 가이드
+Home Page: 홍보동영상 첨부
 
 
-User Profile: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등)
+Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능
 
 
-Diet Plan: 자동 생성된 식단 페이지
+Food Info : 건강식단 식품 정보 제공(쿠팡링크)
 
 
-Chat Support: 실시간 챗봇 상담
+Communication:
+실시간 댓글 기능추가
 
 
-Comment : 실시간 댓글 기능 추가
+Contact point:
+실시간 챗봇 상담
 
-
-Food Info: 건강식단 식품 정보 제공(쿠팡링크)
 
 
 **3.2 화면 설계 (스토리 보드)**
