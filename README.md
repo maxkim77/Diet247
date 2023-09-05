@@ -1,4 +1,4 @@
-![Diet 24 7](https://github.com/maxkim77/Diet247/assets/141907655/5083698f-96e0-42ce-92e0-f8d5ba52592e)
+![Diet 24 7](https://github.com/maxkim77/Diet247/assets/141907655/9c5c2cb1-de29-4af2-829b-208fc6412436)
 
 
 # Diet24/7: 맞춤형 다이어트 식단 웹 플랫폼 프로젝트 기획안
