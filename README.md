@@ -23,7 +23,8 @@
 ## 1.프로젝트 목표 및 요구사항
 
 
-![슬라이드4](https://github.com/maxkim77/Diet247/assets/141907655/f5704edf-0a8f-424e-b7ff-cfd6b7ffce3a)
+![슬라이드4](https://github.com/maxkim77/Diet247/assets/141907655/d9665a60-9b15-4735-ae44-a8e93e26b030)
+
 
 
 **1.1 목표**
