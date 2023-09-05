@@ -162,7 +162,7 @@ Contact point:
 ![슬라이드7](https://github.com/maxkim77/Diet247/assets/141907655/2b127494-f1ee-42bb-9140-38b2ac6f86f7)
 
 
-![슬라이드8](https://github.com/maxkim77/Diet247/assets/141907655/35305071-f6c4-4e9e-acc7-a20e3ee79ead)
+![슬라이드8](https://github.com/maxkim77/Diet247/assets/141907655/f96c45df-2fc4-4a18-af99-01b1dfc560be)
 
 
 ## 4. 기능
