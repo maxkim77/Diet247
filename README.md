@@ -147,8 +147,9 @@ Nutrition Info
 
  
  ┣ 📜common.css
-
  
+ ┣ 📜index.js
+  
  ┣ 📂HTML
 
  
@@ -156,9 +157,6 @@ Nutrition Info
  
  
  ┣ 📜index.html
- 
- 
- ┣ 📜index.js
  
  
  ┣ 📜section1.html
