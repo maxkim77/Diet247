@@ -99,7 +99,7 @@ https://maxkim77.github.io/Diet247/
 ## 3. 프로젝트 설계 및 세부사항
 
 
-![슬라이드6](https://github.com/maxkim77/Diet247/assets/141907655/c44ad770-afb5-4426-be70-93c092afa093)
+![슬라이드6](https://github.com/maxkim77/Diet247/assets/141907655/e15bc6b5-16b0-4fad-9db9-bf1d737d587d)
 
 
 **3.1 구조 설계**
