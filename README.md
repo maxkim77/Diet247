@@ -1,7 +1,7 @@
 # Diet24/7: 개인화된 다이어트 식단 웹 플랫폼 기획안
 
 
-![Uploading Diet 24.7.gif…]()
+![Diet 24 7](https://github.com/maxkim77/Diet247/assets/141907655/64e06c5f-76ea-491f-8e99-0299fedaf238)
 
 
 
