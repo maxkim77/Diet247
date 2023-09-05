@@ -123,25 +123,65 @@ https://maxkim77.github.io/Diet247/
 **3.1 프로젝트 구조**
 
 📦Diet 24.7
+
+
  ┣ 📂IMG
+
+ 
  ┃ ┣ 📜Dubbing version.mp4
+ 
+ 
  ┃ ┣ 📜img1.png
+ 
+ 
  ┃ ┣ 📜img2.png
+ 
+ 
  ┃ ┣ 📜img3.png
+ 
+ 
  ┃ ┣ 📜img4.jpg
+ 
+ 
  ┃ ┣ 📜img5.jpg
+ 
+ 
  ┃ ┣ 📜img5.png
+ 
+ 
  ┃ ┣ 📜img6.png
+ 
+ 
  ┃ ┣ 📜index.PNG
+ 
+ 
  ┃ ┣ 📜KakaoTalk_20230831_155104676.mp4
+ 
+ 
  ┃ ┣ 📜load-32_256.gif
+ 
+ 
  ┃ ┗ 📜Untitled video - Made with Clipchamp (3).mp4
+ 
+ 
  ┣ 📜common.css
+ 
+ 
  ┣ 📜Home.html
+ 
+ 
  ┣ 📜index.html
+ 
+ 
  ┣ 📜index.js
+ 
+ 
  ┣ 📜section1.html
+ 
+ 
  ┣ 📜section2.html
+ 
+ 
  ┗ 📜section3.html
 
 **3.2 개발 일정(WBS)**
