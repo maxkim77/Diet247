@@ -57,6 +57,24 @@ Diet 24/7은 사용자의 식단 선호, 영양 필요성, 목표 체중 등을 
 - 한번의 요청에 하나의 질문과 답변이 출력됩니다.
 
 
+
+## 2. 개발 환경 및 설계
+
+
+**2.1 개발 환경**
+
+
+Frontend: HTML, CSS
+Backend: JavaScript
+API: ChatGPT API
+
+
+**2.2 배포 URL**
+
+
+https://maxkim77.github.io/Diet247/
+
+
 **1.3 정보 구조 설계**
 
 
@@ -106,22 +124,6 @@ Nutrition Info
 영양소 정보 카드
 
 
-
-**2. 개발 환경 및 배포**
-
-
-**2.1 개발 환경**
-
-
-Frontend: HTML, CSS
-Backend: JavaScript
-API: ChatGPT API
-
-
-**2.2 배포 URL**
-
-
-https://maxkim77.github.io/Diet247/
 
 **3. 프로젝트 설계와 개발 일정 및 R&R**
 
