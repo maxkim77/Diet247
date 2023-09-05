@@ -5,7 +5,7 @@
 
 
 **1.1 목표**
-
+    <source src="https://maxkim77.github.io/Diet247-1/IMG/Untitled video - Made with Clipchamp (3).mp4" type="video/mp4" width="100%" height="100%">
 
 Diet 24/7은 사용자의 식단 선호, 영양 필요성, 목표 체중 등을 고려하여 맞춤형 식단을 자동으로 생성하는 웹 플랫폼입니다. 
 
