@@ -30,11 +30,11 @@
         <div class="text-container">
             <h2>[다이어트 식단]</h2>
             <form id="diet-form">
-                <div>무슨운동하시나요?</div>
+                <div>무슨 운동 하시나요?</div>
                 <input name="type" id="type" type="text" minlength="2" maxlength="30" placeholder="수영, 헬스, 축구, 야구 등" required>
                 <div>며칠 동안 식단관리를 할 건가요?</div>
                 <input name="days" id="days" type="text" minlength="2" maxlength="30" placeholder="3일" required>
-                <div>못먹는 음식이 있나요?</div>
+                <div>못 먹는 음식이 있나요?</div>
                 <input name="extrafood" id="extrafood" type="text" minlength="2" maxlength="30" placeholder="피클, 땅콩 등" required>
                 <div>다이어트 목적은 있나요?</div>
                 <div class="field" >
@@ -58,66 +58,24 @@
                 <button type="submit">질문하기!</button>
             </form>
         </div>
+    <div id="loading" style="display: none;">
+        <h2>It's a work in the progress.</h2>
+        <img src = "https://maxkim77.github.io/Diet247/IMG/load-32_256.gif">
     </div>
-    <main>
+
+    <div id="result" style="display: none;">
         <h2 style="text-align: center;">[식단일정]</h2>
-        <div class="frame-container">
-            <!-- 여기에 JavaScript로 식단 칸이 추가됩니다 -->
-        </div>
-    </main>
- 
-    <script>
-        const url = `https://estsoft-openai-api.jejucodingcamp.workers.dev/`;
-        const $form = document.getElementById('diet-form');
-        const $frameContainer = document.querySelector('.frame-container');
+        <div class="frame-container"></div>
+        <button class="center-button" onclick="init()">Home</button>
+        <button id="exportBtn">내보내기</button>
 
-        $form.addEventListener('submit', async e => {
-            e.preventDefault();
 
-            const type = document.getElementById('type').value;
-            const days = document.getElementById('days').value;
-            const extrafood = document.getElementById('extrafood').value;
-            const work1 = document.getElementById('work1').checked;
-            const work2 = document.getElementById('work2').checked;
-            const work3 = document.getElementById('work3').checked;
-            const work4 = document.getElementById('work4').checked;
+    </div>
+</div>
+<main>
+</main>
 
-            let purpose = '';
-            if (work1) purpose += '체중증가 ';
-            if (work2) purpose += '체중감량 ';
-            if (work3) purpose += '체중유지 ';
-            if (work4) purpose += '근육증가 ';
-
-            const data = {
-                "role": "system",
-                "content": `운동 종류: ${type}, 식단 기간: ${days}, 못 먹는 음식: ${extrafood}, 목적: ${purpose} 등을 활용해서 운동식단을 짜드리겠습니다.`
-            };
-
-            const response = await fetch(url, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify([data]),
-                redirect: 'follow'
-            });
-
-            const result = await response.json();
-            const numDays = parseInt(days, 10) || 1;
-
-            $frameContainer.innerHTML = ''; // 기존 내용 삭제
-
-            for (let i = 1; i <= numDays; i++) {
-                const frame = document.createElement('div');
-                frame.className = 'frame';
-                frame.innerHTML = `
-                    <h3>Day ${i}</h3>
-                    <p>${result.choices[0].message.content}</p>
-                `;
-                $frameContainer.appendChild(frame);
-            }
-        });
-    </script>
+<script src="https://maxkim77.github.io/Diet247/index.js"></script>
 
 <!-- 하단부분 -->
        <footer class="layout-footer">
