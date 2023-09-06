@@ -85,7 +85,7 @@
 - Frontend: HTML, CSS
 
 
-- Backend: JavaScript, JSquery
+- Backend: JavaScript, Jquery
 
 
 - API: ChatGPT API, Tawk API, Disqus API
