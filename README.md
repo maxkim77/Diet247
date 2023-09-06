@@ -258,6 +258,10 @@ Contact point:
 - 추후 자바스크립트로 여러 HTML 페이지 구조에서 단일 HTML 페이지로 변환할 예정입니다.
 
 
+
+https://github.com/maxkim77/Diet247/assets/141907655/3a88803a-bf8e-4935-8b8b-ff27e7190033
+
+
 ![Diet 24 7-41](https://github.com/maxkim77/Diet247/assets/141907655/40c6dca9-8d2f-4b7e-8ca5-b5811b1a30a2)
 
 
