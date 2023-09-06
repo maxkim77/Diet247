@@ -93,10 +93,10 @@ API: ChatGPT API, Tawk API, Disqus API
 **2.3 개인 프로젝트: 총괄 김정원**
 
 
-**2.4 배포 URL**
+**2.4 배포 URL:**
 
 
-https://maxkim77.github.io/Diet247/
+📌 https://maxkim77.github.io/Diet247/
 
 
 ## 3. 프로젝트 설계 및 세부사항🎉
