@@ -264,6 +264,7 @@ Contact point:
 
 ## 별첨 : 프로모션 영상
 
+
 https://github.com/maxkim77/Diet247/assets/141907655/3a88803a-bf8e-4935-8b8b-ff27e7190033
 
 
