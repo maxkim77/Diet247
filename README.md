@@ -152,7 +152,8 @@ Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), �
 
 Food Info : 건강식단 식품 정보 제공(쿠팡링크)
 
-![gif](https://github.com/maxkim77/Diet247/assets/141907655/282dac31-65ec-4da3-b28e-2e6fca89ebdd)
+
+![ezgif com-optimize (1)-min](https://github.com/maxkim77/Diet247/assets/141907655/53f44127-3a65-4f95-8cea-61684d3e1c10)
 
 Communication:
 실시간 댓글 기능추가(Disqus)
