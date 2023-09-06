@@ -142,11 +142,11 @@ Main Components
 
 [![gif](https://github.com/maxkim77/Diet247/assets/141907655/b2b221b4-0a6b-4af4-a770-4b3f2caab6df)](https://github.com/maxkim77/Diet247/assets/141907655/e9f0db9e-a8bc-467a-8f00-a2f6cd0c041f)
 
-Home Page: 홍보동영상 첨부
+Home Page: 홍보동영상 배경 첨부
 
 ![gif](https://github.com/maxkim77/Diet247/assets/141907655/9d95cb83-59ba-4bd8-b58a-5f2ee19d68ff)
 
-Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능
+Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능(Chat GPT 활용)
 
 ![gif](https://github.com/maxkim77/Diet247/assets/141907655/f80583e2-9d44-4860-b318-1f8762ad5d41)
 
