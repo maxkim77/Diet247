@@ -144,13 +144,15 @@ Main Components
 
 Home Page: 홍보동영상 배경 첨부
 
-![Uploading CPT2309060940-1904x908-min (1) (2).gif…]()
+
+![CPT2309060940-1904x908-min (1) (2)](https://github.com/maxkim77/Diet247/assets/141907655/c4ccd9ea-ad41-4a78-882e-8d98af2b4ce9)
 
 
 Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능(Chat GPT 활용)
 
 
 ![CPT2309060939-1878x901-min](https://github.com/maxkim77/Diet247/assets/141907655/8ced99c4-a700-4ee8-959e-4c9075064ad6)
+
 
 Food Info : 건강식단 식품 정보 제공(쿠팡링크)
 
