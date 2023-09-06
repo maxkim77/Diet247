@@ -258,7 +258,7 @@
 ## 별첨 : 프로모션 영상
 
 
-https://github.com/maxkim77/Diet247/assets/141907655/3a88803a-bf8e-4935-8b8b-ff27e7190033
+https://github.com/maxkim77/Diet247/assets/141907655/f609c575-ebb0-4f34-8a3d-de2cc5e633b9
 
 
 ![Diet 24 7-41](https://github.com/maxkim77/Diet247/assets/141907655/40c6dca9-8d2f-4b7e-8ca5-b5811b1a30a2)
