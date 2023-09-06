@@ -157,7 +157,9 @@ Food Info : 건강식단 식품 정보 제공(쿠팡링크)
 Communication:
 실시간 댓글 기능추가(Disqus)
 
-![gif](https://github.com/maxkim77/Diet247/assets/141907655/0b103bea-e899-463e-a4b5-1fe2929d2035)
+
+https://github.com/maxkim77/Diet247/assets/141907655/c9257f04-a721-4d65-8c7f-f9d3916657da
+
 
 Contact point:
 실시간 챗봇 상담(Tawk)
