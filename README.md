@@ -262,7 +262,7 @@ Contact point:
 - 챗GPT 의존도 높음, 코드 필사 및 공부를 할 예정입니다.
 - 추후 자바스크립트로 여러 HTML 페이지 구조에서 단일 HTML 페이지로 변환할 예정입니다.
 
-
+## 별첨 : 프로모션 영상
 
 https://github.com/maxkim77/Diet247/assets/141907655/3a88803a-bf8e-4935-8b8b-ff27e7190033
 
