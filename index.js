@@ -1,4 +1,3 @@
-
 function init() {
     $('.image-container').show();
     $('#main').show();
