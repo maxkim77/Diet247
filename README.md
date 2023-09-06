@@ -164,7 +164,7 @@ Communication:
 실시간 댓글 기능추가(Disqus)
 
 
-https://github.com/maxkim77/Diet247/assets/141907655/c9257f04-a721-4d65-8c7f-f9d3916657da
+![CPT2309061045-1904x902 (1)](https://github.com/maxkim77/Diet247/assets/141907655/831c9f9d-d660-4339-9380-dfa7ea08aad9)
 
 
 Contact point:
