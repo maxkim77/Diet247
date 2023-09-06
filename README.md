@@ -7,6 +7,8 @@
 ![슬라이드3](https://github.com/maxkim77/Diet247/assets/141907655/03e17fac-0035-4b40-9bbd-bf6e452b8b3d)
 
 
+## 0 소개
+
 
 **0.1 배경**
 
