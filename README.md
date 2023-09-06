@@ -151,33 +151,31 @@
 
 ![CPT2309061002-1898x920 (2)](https://github.com/maxkim77/Diet247/assets/141907655/1d4c267b-0ffa-406e-983a-41b5e926fb01)
 
-**Home Page: 홍보동영상 배경 첨부**
+**<Home Page: 홍보동영상 배경 첨부>**
 
 
 ![CPT2309060940-1904x908-min (1) (2)](https://github.com/maxkim77/Diet247/assets/141907655/c4ccd9ea-ad41-4a78-882e-8d98af2b4ce9)
 
 
-**Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능(Chat GPT 활용)**
+**<Diet Plan: 사용자 정보 입력 (체중, 목표 체중, 알레르기 등), 자동 생성된 식단 페이지 생성 및 저장 기능(Chat GPT 활용)>**
 
 
 ![CPT2309060939-1878x901-min](https://github.com/maxkim77/Diet247/assets/141907655/8ced99c4-a700-4ee8-959e-4c9075064ad6)
 
 
-**Food Info : 건강식단 식품 정보 제공(쿠팡링크)**
-
+**<Food Info : 건강식단 식품 정보 제공(쿠팡링크)>**
 
 
 ![ezgif com-optimize (1)-min](https://github.com/maxkim77/Diet247/assets/141907655/53f44127-3a65-4f95-8cea-61684d3e1c10)
 
 
-**Communication:실시간 댓글 기능추가(Disqus)**
+**<Communication:실시간 댓글 기능추가(Disqus)>**
 
 
 ![CPT2309061045-1904x902 (1)](https://github.com/maxkim77/Diet247/assets/141907655/831c9f9d-d660-4339-9380-dfa7ea08aad9)
 
 
-**Contact point:실시간 챗봇 상담(Tawk)**
-
+**<Contact point:실시간 챗봇 상담(Tawk)>**
 
 
 **3.3 UI / BM**
