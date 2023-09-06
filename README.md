@@ -261,7 +261,7 @@
 
 https://github.com/maxkim77/Diet247/assets/141907655/9c5bd0b6-ecf8-4d46-89ab-a956b3e8185d
 
-## Thank you for watching
+## 🎀Thank you for watching
 ![Diet 24 7-41](https://github.com/maxkim77/Diet247/assets/141907655/40c6dca9-8d2f-4b7e-8ca5-b5811b1a30a2)
 
 
