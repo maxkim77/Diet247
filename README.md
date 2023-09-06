@@ -264,4 +264,4 @@ https://github.com/maxkim77/Diet247/assets/141907655/9c5bd0b6-ecf8-4d46-89ab-a95
 ## 🎀Thank you for watching
 ![Diet 24 7-41](https://github.com/maxkim77/Diet247/assets/141907655/40c6dca9-8d2f-4b7e-8ca5-b5811b1a30a2)
 
-
+📖 Velog : https://velog.io/@maxkim7723/오르미-3기-08.26.9.6.-HTML-CSS-JS-프로젝트
