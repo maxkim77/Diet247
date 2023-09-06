@@ -140,7 +140,7 @@ https://maxkim77.github.io/Diet247/
 Main Components
 
 
-[![gif](https://github.com/maxkim77/Diet247/assets/141907655/b2b221b4-0a6b-4af4-a770-4b3f2caab6df)](https://github.com/maxkim77/Diet247/assets/141907655/e9f0db9e-a8bc-467a-8f00-a2f6cd0c041f)
+![CPT2309061002-1898x920 (2)](https://github.com/maxkim77/Diet247/assets/141907655/1d4c267b-0ffa-406e-983a-41b5e926fb01)
 
 Home Page: 홍보동영상 배경 첨부
 
