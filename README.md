@@ -173,7 +173,7 @@ Contact point:
 ![슬라이드8](https://github.com/maxkim77/Diet247/assets/141907655/f96c45df-2fc4-4a18-af99-01b1dfc560be)
 
 
-## 4. 기능
+## 4. 구현 기능 요약
 
 
 ![슬라이드9](https://github.com/maxkim77/Diet247/assets/141907655/2804c661-715e-4993-be70-4b421b9d02b4)
@@ -185,7 +185,7 @@ Contact point:
 사용자 정보 입력
 
 
-식단 자동 생성 및 저장기능
+식단 자동 생성 및 HTML 저장기능
 
 
 **4.2 추가 기능**
@@ -195,6 +195,9 @@ Contact point:
 
 
 건강식품 정보 제공
+
+
+실시간 채팅 상담 기능
 
 **4.3 수익화 기능 – 쿠팡파트너스 연동**
 
