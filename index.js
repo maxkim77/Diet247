@@ -73,8 +73,8 @@ document.getElementById('exportBtn').addEventListener('click', function() {
     const a = document.createElement('a');
     a.style.display = 'none';
     a.href = url;
-    a.download = 'diet_schedule.html'; // 원하는 파일명을 설정하세요.
-
+    a.download = 'diet_schedule.html'; 
+    
     document.body.appendChild(a);
     a.click();
 
