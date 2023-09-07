@@ -76,7 +76,7 @@
 ## 2. 개발 환경 및 설계🎈
 
 
-![슬라이드5](https://github.com/maxkim77/Diet247/assets/141907655/355e6efa-ef3a-468e-a3bf-ddb7f9cae9c6)
+![슬라이드5](https://github.com/maxkim77/Diet247/assets/141907655/8dd23c1c-b589-431b-b476-f239453be6c0)
 
 
 **2.1 개발 환경**
