@@ -93,8 +93,7 @@
 
 **2.2 개발 일정(WBS)**
 
-
-📌https://cloud-kale-960.notion.site/24a89e9a89284a12a6756c756be0d5cd?v=be385651648e4a4f92478eb4ee96b23e&pvs=4
+![그림1](https://github.com/maxkim77/Diet247/assets/141907655/b31967dd-6349-43e5-acff-9015143cf858)
 
 
 **2.3 개인 프로젝트: 🤵총괄 김정원**
